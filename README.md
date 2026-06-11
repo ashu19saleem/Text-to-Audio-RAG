@@ -1,0 +1,3 @@
+Text-to-Audio RAG System is an AI-powered application that converts user text queries into intelligent audio responses using a Retrieval-Augmented Generation (RAG) pipeline. The system retrieves relevant information from a knowledge base, generates context-aware answers with a Large Language Model (LLM), and converts the generated response into natural-sounding speech using Text-to-Speech (TTS) technology. This enables users to interact with documents and knowledge sources through voice-based responses, making information access more engaging and accessible.
+
+Link:https://cloud.uibakery.io/dev/giant-donatello/iH0a24KwfD
